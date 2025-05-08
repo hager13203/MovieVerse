@@ -26,3 +26,18 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/hager13203/MovieVerse.git
+
+**Home Page**
+![image](https://github.com/user-attachments/assets/a7844509-7c2e-419e-bab6-d86b846ee8fe)
+
+**Movie Details**
+![image](https://github.com/user-attachments/assets/5aeb71d4-045e-4a4b-8d11-75ab186f0a60)
+
+**About Page**
+![image](https://github.com/user-attachments/assets/0c27773f-303e-4b8a-9c71-35c85a1b5013)
+
+**NotFound Page**
+![image](https://github.com/user-attachments/assets/275b24f4-eda9-453c-9f0f-9ea0ae339a81)
+
+**Searching**
+![image](https://github.com/user-attachments/assets/a4378249-b811-4eef-b2bc-91296293fa5e)
