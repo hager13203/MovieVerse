@@ -1,16 +1,28 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # MovieVerse
->>>>>>> 300785e2e3a018320b80343e053ac2d57edd3edd
+
+MovieVerse is a website that allows users to explore movies, including details such as description, ratings, trailers, and more. The website features pages for displaying movie information, a search functionality, an "About Us" section, and a "Not Found" page for invalid URLs.
+
+## 🚀 Features
+
+- **Movie Details**: Display detailed information about various movies.
+- **Trailers**: Watch movie trailers directly on the website.
+- **Search**: Search for movies by name.
+- **About Us**: Learn more about the creators of MovieVerse.
+- **Not Found Page**: Display a custom "Not Found" page for invalid URLs.
+
+## 🛠️ Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **Axios**: For making HTTP requests to fetch movie data.
+- **useContext**: For managing global state across the app.
+- **Bootstrap**: For responsive and stylish design.
+- **React Hooks**: For managing state and side effects in functional components.
+
+## 📦 Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/hager13203/MovieVerse.git
