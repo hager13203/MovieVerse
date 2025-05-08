@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubot+Sans:ital,wght@0,200..900;1,200..900&family=Modak&family=Yatra+One&display=swap');
+
+body {
+  color: var(--text);
+  background-color: var(--background);
+}
+
+.navbar {
+  background-color: var(--secondary);
+}
+
+.navbar-brand,
+.nav-link {
+  color: var(--text) !important;
+}
+
+.nav-link.active {
+  color: var(--primary) !important;
+}
+
+
+.navbar-nav .nav-link {
+  background: none !important;
+  transition: color 0.3s ease;
+}
+.navbar-nav .nav-link:hover {
+  color: var(--primary) !important;
+  background: none !important;
+}
+
+.logo{
+  color: var(--primary) !important;
+  font-family: "Mystery Quest", system-ui;
+  font-weight: 400;
+  font-style: normal;
+    margin-left: 2rem;
+  
+}
+
+/* Custom Toggler */
+
+.custom-toggler .navbar-toggler-icon {
+  background-color: #93a8a8; 
+  border-radius: 5%; 
+}
+
