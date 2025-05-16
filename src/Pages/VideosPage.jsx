@@ -6,10 +6,11 @@ const VideosPage = () => {
   const [videos] = useState([
     {
       id: uuidv4(),
-      title: "Wonder Woman",
-      url: "https://www.youtube.com/embed/VSB4wGIdDwo",
+      title: "UP",
+      url: "https://youtu.be/HWEW_qTLSEE?si=1VfBaebnsdfqrgRW",
       duration: "2:30",
-      thumbnail: "https://i.ytimg.com/vi/VSB4wGIdDwo/mqdefault.jpg",
+      thumbnail:
+        "https://www.liveabout.com/thmb/Uwm6lYie5SxgyLed5ufDpFn2pxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/up001-56a573d75f9b58b7d0dcfb06.jpg",
     },
     {
       id: uuidv4(),
